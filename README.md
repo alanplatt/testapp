@@ -17,3 +17,7 @@ To run
 
        the application will greet you on
        http://localhost:5000/
+
+
+Docker (this will build and run the docker image)
+docker-compose up -d
